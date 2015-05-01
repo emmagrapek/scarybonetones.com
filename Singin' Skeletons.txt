@@ -1,0 +1,13 @@
+<html>
+	<title>singin' skeletons</title>
+		<head><link rel="stylesheet" type="text/css" href="stylesheet.css>	</head>
+			<body>
+			
+		
+		<p> Just Testin'</p>
+		
+		
+		
+		
+		</body>
+</html>

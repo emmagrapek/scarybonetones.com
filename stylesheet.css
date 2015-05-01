@@ -1,0 +1,39 @@
+body {
+background-color: 000000;
+max-width: 960;
+margin: auto;
+}
+
+p {
+color:fff;
+text-align: center;
+
+}
+
+.title {
+margin-top:50px; 
+text-align: center;
+color:fff;
+font-weight: normal;
+}
+
+hr {
+color: red;
+margin:auto;
+max-width: auto;
+margin-top: -15px;
+}
+
+div {
+display:inline-block;
+margin-left: 20px;
+margin-bottom: 30px;
+}
+
+.bottomline {
+margin-top: 30px;
+}
+
+.gif {
+display:none;
+}
